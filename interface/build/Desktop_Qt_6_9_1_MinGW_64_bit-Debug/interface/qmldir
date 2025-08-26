@@ -1,0 +1,5 @@
+module interface
+typeinfo appinterface.qmltypes
+prefer :/qt/qml/interface/
+Main 1.0 Main.qml
+

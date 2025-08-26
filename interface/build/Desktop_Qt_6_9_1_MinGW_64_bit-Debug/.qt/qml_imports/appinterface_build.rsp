@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/awfaw/Documents/interface
+-cmake-output
+-output-file
+C:/Users/awfaw/Documents/interface/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/qml_imports/appinterface_build.cmake
+-importPath
+C:/Users/awfaw/Documents/interface/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/interface
+-importPath
+C:/Users/awfaw/Documents/interface/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.1/mingw_64/qml
+-qrcFiles
+C:/Users/awfaw/Documents/interface/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/qmake_interface.qrc
+C:/Users/awfaw/Documents/interface/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qt/rcc/appinterface_raw_qml_0.qrc
