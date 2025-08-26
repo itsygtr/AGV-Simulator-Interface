@@ -2492,7 +2492,7 @@ ApplicationWindow {
                                 ctx.textAlign = "center"
                                 ctx.fillText("AGV", agvCurrentX, agvCurrentY + 5)
 
-                                // Hedef nokta (mouse ile kontrol edilebilir) - sadece hedef varsa çiz
+                                // Hedef nokta mouse kontrolü
                                 console.log("Canvas çiziliyor - hasTarget değeri:", hasTarget, "targetsCleared:", targetsCleared)
                                 if (hasTarget === true && !targetsCleared) {
                                     // Auto mode'da şarj istasyonuna gidiyorsa farklı renk kullan
